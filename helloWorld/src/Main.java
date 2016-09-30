@@ -1,4 +1,3 @@
-import exercises.Collections;
 import exercises.myCollections;
 import objects.Animal;
 import objects.Customer;
