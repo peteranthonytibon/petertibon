@@ -18,6 +18,7 @@ public class myCollections {
         myFriends.add(5, "Roden Artuyo");
         myFriends.add(6, "Stephen Canono");
         myFriends.add(7, "Jhon Mark Carizon");
+        myFriends.add(8, "Rhaminne Dela Pena");
 
         int range = myFriends.size();
         int min = 0;
